@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Unit Conversion App</string>
+    <!-- Other string resources -->
+    <string-array name="measurement_units">
+        <item>Celsius</item>
+        <item>Fahrenheit</item>
+        <item>Feet</item>
+        <item>Inches</item>
+        <item>Kelvin</item>
+        <item>Miles</item>
+        <item>Ounces</item>
+        <item>Pounds</item>
+        <item>Tons</item>
+        <item>Yards</item>
+    </string-array>
+</resources>
